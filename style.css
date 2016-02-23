@@ -1,0 +1,46 @@
+.square {width: 100px;
+  height: 100px;
+  font-size:60px;
+  color: #696969;
+  text-align:center;
+  border:black;
+ ;
+  
+}
+.s {border-top: 3px solid #00FFFF;
+    border-bottom: 3px solid #00FFFF;}
+.m{border-left: 3px solid #00FFFF;
+   border-right: 3px solid #00FFFF;
+}
+#board{margin-left: auto;
+  margin-right: auto;
+    width: 400px;
+}
+
+.p1-color {
+  background-color: #E9967A;
+}
+
+.p2-color {
+  background-color: #00CED1;
+}
+
+#resetButton {
+    background-color: #6495ED; 
+    border:none ;
+    color: white;
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin-bottom:12px;
+}
+
+#gametitle {
+  font-size: 50px;
+  color: #5F9EA0;
+  text-align:center;
+
+  
+}
